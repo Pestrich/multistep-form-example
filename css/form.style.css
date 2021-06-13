@@ -1,0 +1,15 @@
+fieldset {
+    display: none;
+}
+
+fieldset.current {
+    display: block;
+}
+
+.error {
+    color: red;
+}
+
+li.current {
+    color: green;
+}
